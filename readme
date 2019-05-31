@@ -1,0 +1,23 @@
+This is a readme file for the models associated with
+
+Dougherty, Wright and Yew (2005) Computational model of the
+cAMP-mediated sensory response and calcium-dependent 
+adaptation in vertebrate olfactory receptor neurons. 
+PNAS 2005 Jul 26;102(30):10415-20.
+
+Example use of the model files:
+
+1)download and expand the zip file.
+2)Start matlab.
+3)Within matlab, cd to the directory created when the zip 
+  file was expanded (for example I expanded the zip file in
+  c:/nrnmodels):
+  >> cd c:/nrnmodels/dwy_pnas_demo2/
+  or alternatively add that file to your matlab path.
+4)Run the program by typing the name at the matlab prompt
+
+>> dwy_pnas_demo2
+5) select single and press ok a few times to create fig 1a,1b
+from the paper.
+
+Dougherty's web site: http://mbi.osu.edu/~dpdoughe
